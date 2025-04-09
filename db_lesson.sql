@@ -1,3 +1,5 @@
+DB lesson section10
+
 Q1.
 create table departments(
   department_id int unsigned NOT NULL AUTO_INCREMENT primary key,
